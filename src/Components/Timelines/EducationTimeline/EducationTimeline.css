@@ -1,0 +1,86 @@
+.education-title-1 {
+  font-weight: 600 !important;
+  color: #385170 !important;
+}
+
+.education-subtitle {
+  font-weight: 600 !important;
+  color: #385170 !important;
+}
+
+.education-content {
+  color: #5f6368 !important;
+}
+
+.education-dot-1 {
+  padding: 0.5rem !important;
+  background-color: #a2a8d3 !important;
+}
+
+.education-dot-2 {
+  background-color: #a2a8d3 !important;
+}
+
+.education-item {
+  padding-left: 14px !important;
+}
+
+.education-connector {
+  background-color: #d5def5 !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .education-title-1 {
+    font-size: 18px;
+  }
+
+  .education-subtitle {
+    font-size: 14px;
+  }
+
+  .education-content {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width:768px) {
+  .education-title-1 {
+    font-size: 20px;
+  }
+
+  .education-subtitle {
+    font-size: 15px;
+  }
+
+  .education-content {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width:992px) {
+  .education-title-1 {
+    font-size: 20px;
+  }
+
+  .education-subtitle {
+    font-size: 14px;
+  }
+
+  .education-content {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .education-title-1 {
+    font-size: 20px;
+  }
+
+  .education-subtitle {
+    font-size: 15px;
+  }
+
+  .education-content {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,78 @@
+.timeline .MuiTimelineItem-missingOppositeContent:before {
+  display: none;
+}
+
+.timeline .MuiTimelineConnector-root {
+  background-color: #385170!important;
+}
+
+.timeline-item {
+  padding-left: 18px !important;
+}
+
+.dot1 {
+  background-color: #a2a8d3 !important;
+  color: #385170 !important;
+  padding: 7px !important;
+  
+}
+.timeline-item1 {
+  margin-left: 2px !important;
+}
+
+.dot {
+  background-color: #a2a8d3  !important;
+  color: #00222c !important;
+}
+
+.timeline-title {
+  color: #385170 ;
+  font-weight: 600;
+}
+
+.timeline-content {
+  color: #5F6368;
+  
+}
+
+@media only screen and (max-width: 600px) {
+  .timeline-title {
+    font-size: 14px !important;
+  }
+  .timeline-content  {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width:768px) {
+  .timeline-title {
+    font-size: 15px !important;
+    
+  }
+
+  .timeline-content  {
+    font-size: 13px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width:992px) {
+  .timeline-title {
+    font-size: 14px !important;
+    
+  }
+
+  .timeline-content  {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .timeline-title {
+    font-size: 15px !important;
+    
+  }
+
+  .timeline-content  {
+    font-size: 13px !important;
+  }
+}

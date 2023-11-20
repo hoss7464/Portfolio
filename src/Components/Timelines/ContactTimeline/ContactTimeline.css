@@ -1,0 +1,86 @@
+.Contact-title {
+  font-weight: 600 !important;
+  color: #385170 !important;
+}
+
+.Contact-subtitle {
+  font-weight: 600 !important;
+  color: #385170 !important;
+}
+
+.Contact-content {
+  color: #5f6368 !important;
+}
+
+.Contact-dot-1 {
+  padding: 0.5rem !important;
+  background-color: #a2a8d3 !important;
+}
+
+.Contact-dot-2 {
+  background-color: #a2a8d3 !important;
+}
+
+.Contact-item {
+  padding-left: 14px !important;
+}
+
+.Contact-connector {
+  background-color: #d5def5 !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .Contact-title {
+    font-size: 18px;
+  }
+
+  .Contact-subtitle {
+    font-size: 14px;
+  }
+
+  .Contact-content {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width:768px) {
+  .Contact-title {
+    font-size: 20px;
+  }
+
+  .Contact-subtitle {
+    font-size: 15px;
+  }
+
+  .Contact-content {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width:992px) {
+  .Contact-title {
+    font-size: 20px;
+  }
+
+  .Contact-subtitle {
+    font-size: 14px;
+  }
+
+  .Contact-content {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .Contact-title {
+    font-size: 20px;
+  }
+
+  .Contact-subtitle {
+    font-size: 15px;
+  }
+
+  .Contact-content {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,10 @@
+.active {
+  background-color: #385170;
+  color: #d5def5 !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-active {
+  width: 100% !important ;
+  transition: all 0.2s ease-in-out;
+}
